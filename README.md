@@ -2,6 +2,10 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
+<p align="center">
+  <a align="center" href="https://github.com/williams-estrada/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BF1EF7&background=35FF4B00&random=false&width=435&lines=Hello+welcome+to+my+front-end+portfolio)](https://git.io/typing-svg);I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+</p>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Williams Estrada Salgado </h1>
 
 <p align="center" width="150px"> I just finished my university as a computer systems engineer, I specialize in being a front-end developer. <br>I am looking to start my professional career in this wonderful world as a front-end..</p>
