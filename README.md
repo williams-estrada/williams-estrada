@@ -10,6 +10,13 @@
 
 <p align="center" width="150px"> I just finished my university as a computer systems engineer, I specialize in being a front-end developer. <br>I am looking to start my professional career in this wonderful world as a front-end..</p>
 
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/williams-estrada/count.svg"/>
+  </div> 
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -37,15 +44,10 @@
 
 </p>
 
-<p align="center"> 
-  <div align="center">Visitor count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/williams-estrada/count.svg"/>
-  </div> 
-</p>
+
 
 ------
 
-Credit: [Niefee](https://github.com/williams-estrada)
-Last Edited on 03/02/2023
+Credit: [williams-estrada](https://github.com/williams-estrada)
+Last Edited on 14/12/2023
 
