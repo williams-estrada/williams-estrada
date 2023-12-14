@@ -10,10 +10,6 @@
 
 <p align="center" width="150px"> I just finished my university as a computer systems engineer, I specialize in being a front-end developer. <br>I am looking to start my professional career in this wonderful world as a front-end..</p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
-
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fn3dal&label=today-visitors&labelColor=%23697689&countColor=%23ba68c8)
-
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -40,4 +36,16 @@
 <a href="https://www.instagram.com/williams.estrada.s99/"><img src="https://img.shields.io/badge/-Williams.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
 </p>
+
+<p align="center"> 
+  <div align="center">Visitor count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Niefee/count.svg"/>
+  </div> 
+</p>
+
+------
+
+Credit: [Niefee](https://github.com/Niefee)
+Last Edited on 03/02/2023
 
