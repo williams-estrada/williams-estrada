@@ -3,7 +3,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
 <p align="center">
-  <a align="center" href="https://github.com/williams-estrada/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BF1EF7&background=35FF4B00&random=false&width=435&lines=Hello+welcome+to+my+portfolio)](https://git.io/typing-svg);" /></a>
+  <a align="center" href="https://github.com/williams-estrada/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=BF1EF7&background=35FF4B00&random=false&width=435&lines=welcome+to+my+portfolio)](https://git.io/typing-svg);" /></a>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Williams Estrada Salgado </h1>
